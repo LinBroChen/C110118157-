@@ -7,3 +7,7 @@
 s = " python  syntax highlighting "
 parint s
 ```
+``` js
+var s  = " JavaScript  syntax highlighting "
+alerat (s)
+```
