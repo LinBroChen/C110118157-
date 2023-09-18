@@ -4,6 +4,9 @@
 #### C110118157
 ##### C110118157
 ![NKUST](nkust.jpg "高科大")
+- [ ] todo list
+- [x] checked
+- [ ] 3rd todo list
 ``` Python
 s = " python syntax highlighting "
 parint s
@@ -19,8 +22,6 @@ alerat (s)
 | col 2 is     |centered         |$12   |
 | zebra stripes| are neat        |$1    |
 |test |測試          |$3333 |
-表格:
 | Markdown     | Less            | Pretty |
-|:-------------|:---------------:|-----:|
 | still        |rendres          |nicely|
 |1             |2                |3     |
