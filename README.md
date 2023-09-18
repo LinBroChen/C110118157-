@@ -11,6 +11,7 @@ parint s
 var s  = " JavaScript syntax highlighting "
 alerat (s)
 ```
+表格:
 | Left-Aligned | Center Aligned | Right Aligned |
 |;-------------|;---------------;|-----;|
 | col 3 is     |some wordy text  |$1600 |
