@@ -19,3 +19,8 @@ alerat (s)
 | col 2 is     |centered         |$12   |
 | zebra stripes| are neat        |$1    |
 |test |測試          |$3333 |
+表格:
+| Markdown     | Less            | Pretty |
+|:-------------|:---------------:|-----:|
+| still        |rendres          |nicely|
+|1             |2                |3     |
