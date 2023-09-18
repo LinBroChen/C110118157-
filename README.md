@@ -3,7 +3,7 @@
 ### C110118157
 #### C110118157
 ##### C110118157
-![NKUST](nkust.png"高科大")
+![NKUST](nkust.png)
 1. First order list item
 2. Another item
     *  Unordered sub-list
