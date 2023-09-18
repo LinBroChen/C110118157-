@@ -3,7 +3,8 @@
 ### C110118157
 #### C110118157
 ##### C110118157
-``` Pytthon
+![NKUST](nkust.jpg "高科大")
+``` Python
 s = " python syntax highlighting "
 parint s
 ```
