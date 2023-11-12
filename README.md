@@ -43,14 +43,9 @@ alerat (s)
 gantt
     title 任務清單
     section 任務
-    研礙計劃           :a1, 2023-10-10, 1d
+    研發專案           :a1, 2023-10-10, 1d
     任務分配           :a2, after a1  , 4d
     程式開發           :a3, after a2  , 20d
-    安裝硬體           :a4, after a3  , 10d
-    程式測試           :a5, after a4  , 30d
-    撰寫使用手冊        :a6, after a5  , 10d
-    轉換檔案           :a7, after a5  , 15d
-    系統測試           :a8, after a6  , 15d
-    使用者訓練         :a9, after a6  , 10d
-    使用者測試         :a10, after a6  , 15d
+    程測試及修改           :a4, after a3  , 10d 
+    系統更新及維護           :a5, after a4  , 30d
 ``` 
