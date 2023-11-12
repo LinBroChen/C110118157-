@@ -45,7 +45,7 @@ gantt
     section 任務
     研發專案           :a1, 2023-10-10, 1d
     任務分配           :a2, after a1  , 4d
-    程式開發           :a3, after a2  , 30d
+    程式開發           :a3, after a2  , 60d
     程測試及修改           :a4, after a3  , 20d 
     系統更新及維護           :a5, after a4  , 10d
 ``` 
